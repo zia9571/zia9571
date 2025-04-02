@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a fina year CSE student at North-Eastern Hill University. I am a Jane of all trades, and a master of some. I like creating things and finding solutions that bring a change. 
+I'm currently a final year CSE student at North-Eastern Hill University. I am a Jane of all trades, and a master of some. I like creating things and finding solutions that bring change. I am actively looking for new opportunities in research, web development, and data science. 
 
 
 ## 🌐 Socials:
