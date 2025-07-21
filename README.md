@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a fresh CSE graduate student from North-Eastern Hill University. Being a jill-of-all-trades and a master of some, I like creating things and finding solutions that bring change. I am actively looking for new opportunities in research, web development, and data science. 
+I'm a fresh CSE graduate student from North-Eastern Hill University. Being a jill-of-all-trades and a master of some, I like creating things and finding solutions that bring change. I am actively looking for new opportunities in research, web development, and data science. 
 
 
 ## 🌐 Socials:
